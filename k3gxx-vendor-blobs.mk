@@ -54,7 +54,6 @@ vendor/samsung/k3gxx/proprietary/lib/libvdis.so:system/lib/libvdis.so \
 vendor/samsung/k3gxx/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
 vendor/samsung/k3gxx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
 vendor/samsung/k3gxx/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-vendor/samsung/k3gxx/proprietary/lib/hw/camera.universal5422.so:system/lib/hw/camera.universal5422.so \
 vendor/samsung/k3gxx/proprietary/vendor/lib/hw/gralloc.exynos5.so:system/vendor/lib/hw/gralloc.exynos5.so \
 vendor/samsung/k3gxx/proprietary/lib/hw/nfc_nci.universal5422.so:system/lib/hw/nfc_nci.universal5422.so \
 vendor/samsung/k3gxx/proprietary/lib/hw/sensorhubs.universal5422.so:system/lib/hw/sensorhubs.universal5422.so \
