@@ -84,12 +84,6 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/k3gxx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
   vendor/samsung/k3gxx/proprietary/bin/cbd:system/bin/cbd \
   vendor/samsung/k3gxx/proprietary/lib/hw/nfc_nci.universal5422.so:system/lib/hw/nfc_nci.universal5422.so \
-  vendor/samsung/k3gxx/proprietary/lib/libfpasmtztransport.so:system/lib/libfpasmtztransport.so \
-  vendor/samsung/k3gxx/proprietary/lib/libvalAuth.so:system/lib/libvalAuth.so \
-  vendor/samsung/k3gxx/proprietary/lib/libvcsfp.so:system/lib/libvcsfp.so \
-  vendor/samsung/k3gxx/proprietary/lib/libvfmClient.so:system/lib/libvfmClient.so \
-  vendor/samsung/k3gxx/proprietary/lib/libvfmtztransport.so:system/lib/libvfmtztransport.so \
-  vendor/samsung/k3gxx/proprietary/bin/vcsFPService:system/bin/vcsFPService \
   vendor/samsung/k3gxx/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
   vendor/samsung/k3gxx/proprietary/vendor/lib/hw/gralloc.exynos5.so:system/vendor/lib/hw/gralloc.exynos5.so \
   vendor/samsung/k3gxx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
